@@ -1,0 +1,16 @@
+{
+  "name": "insta-cleaner",
+  "version": "1.0.0",
+  "description": "Functions to manage your instagram",
+  "author": "koff75",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "instagram-private-api": "^1.43.3"
+  }
+}
