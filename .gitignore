@@ -1,0 +1,6 @@
+node_modules/
+.env
+followers.txt
+following.txt
+topUserLikeList.txt
+test.json
